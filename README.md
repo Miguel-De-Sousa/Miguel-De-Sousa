@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Miguel De Sousa
 
 🎓 **Student at the University of Exeter**  
-🤖 **Machine Learning & AI Enthusiast**  
+🤖 **Tech Enthusiast**  
 🌱 Currently deepening my knowledge of Python, Machine Learning, and the C family \
 🌍 [My Portfolio](https://www.de-sousa.uk)
 
@@ -26,5 +26,3 @@ I'm an undergraduate at the University of Exeter, passionate about artificial in
 - 🌐 [My Portfolio Website](https://www.de-sousa.uk)
 
 ---
-
-_“Always learning, always building.”_
