@@ -15,7 +15,7 @@ I'm an undergraduate at the University of Exeter, passionate about artificial in
 
 ## 🛠️ Skills & Tools
 
-- **Programming:** Python (main), Javascript, C and C++ (learning)
+- **Programming:** Python (main), Javascript, C and C++
 - **Libraries/Tools:** NumPy, pandas, Matplotlib, Jupyter Notebook
 - **Focus Areas:** Machine Learning, Data Science, AI Fundamentals
 
