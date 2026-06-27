@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Miguel De Sousa
 
-🎓 **Student at the University of Exeter**  
-🤖 **Tech Enthusiast**  
-🌱 Currently deepening my knowledge of Python, Machine Learning, and the C family \
+🎓 **Physics Student at the University of Exeter**    
+🤖 Currently deepening my knowledge of Python, Machine Learning, and the C family \
 🌍 [My Portfolio](https://www.de-sousa.uk)
 
 ---
@@ -15,14 +14,8 @@ I'm an undergraduate at the University of Exeter, passionate about artificial in
 
 ## 🛠️ Skills & Tools
 
-- **Programming:** Python (main), Javascript, C and C++
+- **Programming:** Python, Javascript, C and C++
 - **Libraries/Tools:** NumPy, pandas, Matplotlib, Jupyter Notebook
 - **Focus Areas:** Machine Learning, Data Science, AI Fundamentals
-
----
-
-## 📫 Connect with Me
-
-- 🌐 [My Portfolio Website](https://www.de-sousa.uk)
 
 ---
