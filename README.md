@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Miguel De Sousa
 
-🎓 **Physics Student at the University of Exeter**    
+🎓 **Physics Undergraduate at the University of Exeter**    
 🤖 Currently deepening my knowledge of Python, Machine Learning, and the C family \
-🌍 [My Portfolio](https://www.de-sousa.uk)
+[🌍Portfolio](https://de-sousa.uk) | [💼 LinkedIn](https://www.linkedin.com/in/miguelde-sousa/) | [📬 Email](mailto:miguel@de-sousa.uk)
 
 ---
 
@@ -19,3 +19,7 @@ I'm an undergraduate at the University of Exeter, passionate about artificial in
 - **Focus Areas:** Machine Learning, Data Science, AI Fundamentals
 
 ---
+
+## 📊 My Coding Analytics
+![Miguel's Stats](https://github-readme-stats.vercel.app/api?username=miguel-de-sousa&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-de-sousa&layout=compact&theme=tokyonight)
