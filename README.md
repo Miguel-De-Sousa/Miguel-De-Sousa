@@ -21,5 +21,5 @@ I'm an undergraduate at the University of Exeter, passionate about artificial in
 ---
 
 ## 📊 My Coding Analytics
-![Miguel's Stats](https://github-readme-stats.vercel.app/api?username=miguel-de-sousa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-de-sousa&layout=compact&theme=tokyonight)
+![Miguel's Stats](https://github-readme-stats.vercel.app/api?username=Miguel-De-Sousa&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-De-Sousa&layout=compact&theme=tokyonight)
