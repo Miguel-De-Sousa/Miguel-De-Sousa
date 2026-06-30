@@ -19,9 +19,3 @@ I'm an undergraduate at the University of Exeter, passionate about artificial in
 - **Focus Areas:** Machine Learning, Data Science, AI Fundamentals
 
 ---
-
-## 📊 My Coding Analytics
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Miguel-De-Sousa&show_icons=true&count_private=true&theme=tokyonight" alt="Miguel's Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Miguel-De-Sousa&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
