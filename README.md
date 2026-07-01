@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:112233,100:0d1117&height=220&section=header&text=👋%20Hi,%20I'm%20Miguel%20de%20Sousa&fontSize=45&fontColor=ffffff&animation=scaleIn" width="100%" />
 
+---
+
+## 💡 ABOUT ME 
 <p align="left">
   <a href="https://de-sousa.uk"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge" height="40" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/miguelde-sousa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" height="40" alt="LinkedIn"></a>
   <a href="mailto:miguel@de-sousa.uk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" height="40" alt="Email"></a>
 </p>
 
----
-
-## 💡 ABOUT ME
 
 I am an undergraduate at the **University of Exeter**, learning about artificial intelligence and the core mathematical foundations behind it. 
 
@@ -35,3 +35,4 @@ Currently, I am honing my skills in **Python** while actively diving into the **
 ### 💭 QUOTE OF THE DAY
 
 ![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
