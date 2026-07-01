@@ -8,20 +8,30 @@
 
 ---
 
-## 💡 About Me
+## 💡 ABOUT ME
 
-I'm an undergraduate at the University of Exeter, passionate about artificial intelligence and the mathematical foundations behind it. I enjoy experimenting with code, building systems, and expanding my technical knowledge. Currently, I'm honing my skills in Python as well as exploring the C family to broaden my programming range.
+I am an undergraduate at the **University of Exeter**, learning about artificial intelligence and the core mathematical foundations behind it. 
 
----
-
-## 🛠️ Skills & Tools
-
-- **Programming:** Python, Javascript, C and C++
-- **Libraries/Tools:** NumPy, pandas, Matplotlib, Jupyter Notebook
-- **Focus Areas:** Machine Learning, Data Science, AI Fundamentals
+Currently, I am honing my skills in **Python** while actively diving into the **C family** to build efficient inference tools and fast programs.
 
 ---
 
-### 💭 Quote of the Day
+## 💻 LANGUAGES
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> **Focus Areas:** Machine Learning • Data Science • Computer Vision
 
-![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## 📌 CURRENT PROJECT
+
+### 🦴 [Bone Tumour Classification](https://github.com/Miguel-De-Sousa/bone_tumour_classification)
+> A cross-platform C++ desktop application using a custom-trained deep learning model to analyse and classify bone tumours from medical scans.
+
+---
+
+### 💭 QUOTE OF THE DAY
+
+![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
