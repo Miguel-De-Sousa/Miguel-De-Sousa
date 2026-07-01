@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miguel De Sousa
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:112233,100:0d1117&height=220&section=header&text=👋%20Hi,%20I'm%20Miguel%20de%20Sousa&fontSize=45&fontColor=ffffff&animation=scaleIn" width="100%" />
 
 <p align="left">
   <a href="https://de-sousa.uk"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge" height="40" alt="Portfolio"></a>
