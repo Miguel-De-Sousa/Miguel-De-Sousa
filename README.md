@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Miguel De Sousa
 
-🎓 **Physics Undergraduate at the University of Exeter**    
-🤖 Currently deepening my knowledge of Python, Machine Learning, and the C family \
-[🌍Portfolio](https://de-sousa.uk) | [💼 LinkedIn](https://www.linkedin.com/in/miguelde-sousa/) | [📬 Email](mailto:miguel@de-sousa.uk)
+<p align="left">
+  <a href="https://de-sousa.uk"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge" height="40" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/miguelde-sousa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" height="40" alt="LinkedIn"></a>
+  <a href="mailto:miguel@de-sousa.uk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" height="40" alt="Email"></a>
+</p>
 
 ---
 
@@ -19,3 +21,7 @@ I'm an undergraduate at the University of Exeter, passionate about artificial in
 - **Focus Areas:** Machine Learning, Data Science, AI Fundamentals
 
 ---
+
+### 💭 Quote of the Day
+
+![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
