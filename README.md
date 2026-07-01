@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:112233,100:0d1117&height=220&section=header&text=👋%20Hi,%20I'm%20Miguel%20de%20Sousa&fontSize=45&fontColor=ffffff&animation=scaleIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:112233,100:0d1117&height=220&section=header&text=👋%20Hi,%20I'm%20Miguel%20de%20Sousa&fontSize=45&fontColor=ffffff&desc=Physics%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20☕️Caffeine&descSize=18&descAlignY=70&animation=scaleIn" width="100%" />
 
 ---
 
