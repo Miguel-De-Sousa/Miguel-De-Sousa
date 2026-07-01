@@ -4,9 +4,9 @@
 
 ## 💡 ABOUT ME 
 <p align="left">
-  <a href="https://de-sousa.uk"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge" height="40" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/miguelde-sousa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" height="40" alt="LinkedIn"></a>
-  <a href="mailto:miguel@de-sousa.uk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" height="40" alt="Email"></a>
+  <a href="https://de-sousa.uk"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/miguelde-sousa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=polywork&logoColor=white" height="40" alt="LinkedIn"></a>
+  <a href="mailto:miguel@de-sousa.uk"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" height="40" alt="Email"></a>
 </p>
 
 
