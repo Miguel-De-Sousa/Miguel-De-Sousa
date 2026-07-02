@@ -27,7 +27,7 @@ Currently, I am honing my skills in **Python** while actively diving into the **
 
 ## 📌 CURRENT PROJECT
 
-### 🦴 [Bone Tumour Classification](https://github.com/Miguel-De-Sousa/bone_tumour_classification)
+### 🦴 [Bone Tumour Classification](https://github.com/Miguel-De-Sousa/bone-tumour-classification)
 > A cross-platform C++ desktop application using a custom-trained deep learning model to analyse and classify bone tumours from medical scans.
 
 ---
