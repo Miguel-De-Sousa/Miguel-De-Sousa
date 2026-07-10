@@ -30,7 +30,7 @@ Currently, I am honing my skills in **Python** while actively diving into the **
 ### 🦴 [Bone Tumour Classification](https://github.com/Miguel-De-Sousa/bone-tumour-classification)
 > A cross-platform C++ desktop application using a custom-trained deep learning model to analyse and classify bone tumours from medical scans.
 
-> ### 🫀 [Coronary Angiography Inference](https://github.com/Miguel-De-Sousa/live-coronary-angiography)
+### 🫀 [Coronary Angiography Inference](https://github.com/Miguel-De-Sousa/live-coronary-angiography)
 > A live angiography detection program using a deep learning model to identify cardiovascular stenosis from real-time video.
 
 ---
